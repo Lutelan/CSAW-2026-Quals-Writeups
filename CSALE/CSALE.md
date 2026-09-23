@@ -169,5 +169,5 @@ print("\nDone.")
 > Yes its vibe coded :).
 
 We get the required OTP, the unlisted draft has the following image,
-![[flag.png]]
+![flag.png](flag.png)
 Which is the flag!
